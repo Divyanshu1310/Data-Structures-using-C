@@ -1,9 +1,8 @@
-//DSA
+//DATA STRUCTURES
 
 //Write a program to create a linkedList
 
 //Name-Sai Prashant Saxena
-//Roll no-02220902719
 
 #include <stdio.h>
 #include <stdlib.h>
